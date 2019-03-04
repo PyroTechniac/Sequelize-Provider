@@ -1,0 +1,22 @@
+{
+    "name": "sequelize-provider",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "discordjs/discord.js",
+        "fs-nextra": "^0.4.3",
+        "klasa": "dirigeants/klasa",
+        "mysql2": "^1.6.5",
+        "pg": "^7.8.1",
+        "pg-hstore": "^2.3.2",
+        "sequelize": "^4.43.0",
+        "sqlite3": "^4.0.6",
+        "tedious": "^5.0.3"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.0",
+        "eslint-config-klasa": "dirigeants/klasa-lint"
+    }
+}
